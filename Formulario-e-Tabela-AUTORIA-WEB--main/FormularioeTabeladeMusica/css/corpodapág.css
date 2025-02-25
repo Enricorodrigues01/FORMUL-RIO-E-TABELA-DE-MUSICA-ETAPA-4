@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(0, 54, 130);
+}
+form{
+    color: rgb(196, 215, 242);
+}
+div{
+    display: inline-block;
+    margin-right: 7em;
+    margin-bottom: 2em;
+}
+.Gravar{
+    margin-left: 15em;
+}
+a{
+    font-style: normal;
+    color: rgb(196, 215, 242);
+    margin: 0 75px 0 75px;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    margin-bottom: 25px;
+}
+header{
+    color: rgb(196, 215, 242);
+}
+footer{
+    text-align: center;
+}

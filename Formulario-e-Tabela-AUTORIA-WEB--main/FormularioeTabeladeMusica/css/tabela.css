@@ -1,0 +1,29 @@
+table{
+    border-color: black;
+    border-width: 0.1em;
+    border-style: solid ;
+    border-collapse: collapse;
+}
+td, th{
+    border-color: black;
+    border-width: 0.2em;
+    border-style:solid ;
+    background-color: #29cd61;
+    color: white;
+
+}
+caption{
+    font-weight: bold;
+    background-color: rgb(0, 54, 130);
+    color: rgb(196, 215, 242);
+    border-color: rgb(196, 215, 242);
+    border-width: 0.2em;
+    border-style: solid;
+    margin-top: 0.3em;
+}
+.table-group-divider{
+    border-top-color:rgb(0, 0, 0);
+}
+h6{
+    color: rgb(196, 215, 242)
+}
